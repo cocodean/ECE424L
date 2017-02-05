@@ -1,0 +1,15 @@
+Vivado Simulator 2015.4
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.4/bin/unwrapped/win64.o/xelab.exe -wto e2b009f0aedb46d2b71bab24592291bd --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot SPI_Interface_test_behav xil_defaultlib.SPI_Interface_test -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.SPI_Interface [spi_interface_default]
+Compiling architecture behavioral of entity xil_defaultlib.spi_interface_test
+Built simulation snapshot SPI_Interface_test_behav
