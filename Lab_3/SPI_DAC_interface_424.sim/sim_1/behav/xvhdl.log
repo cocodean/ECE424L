@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dcoco/Documents/School/ECE 424L/Lab_3/SPI_DAC_interface_424/SPI_DAC_interface_424.srcs/sources_1/new/SPI_Interface.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity SPI_Interface
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dcoco/Documents/School/ECE 424L/Lab_3/SPI_DAC_interface_424/SPI_DAC_interface_424.srcs/sim_1/new/SPI_Interface_test.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity SPI_Interface_test

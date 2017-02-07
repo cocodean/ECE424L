@@ -1,1 +1,0 @@
--wto "e2b009f0aedb46d2b71bab24592291bd" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "SPI_Interface_test_behav" "xil_defaultlib.SPI_Interface_test" -log "elaborate.log" 
